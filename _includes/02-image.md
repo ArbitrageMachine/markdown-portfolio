@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Image of the Ego: Arbitrage Archetype] (https://purepng.com/public/uploads/medium/fortnite-archetype-677.png)
