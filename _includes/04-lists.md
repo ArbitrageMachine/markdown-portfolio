@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Statistics
+* Computer Science
+  * Machine Learning
+  * Conditional/Baeysian Modeling
+* Financial Instruments
+* Transacting
+  * Arbitrage 
+  * Long Volatility
